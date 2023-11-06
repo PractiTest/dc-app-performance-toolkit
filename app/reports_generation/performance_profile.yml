@@ -7,7 +7,7 @@ runs:
     fullPath: "/home/ubuntu/github/dc-app-performance-toolkit/app/results/jira/2023-11-01_10-01-32"
   - runName: "with app"
     runType: "experiment"
-    fullPath: "/home/ubuntu/github/dc-app-performance-toolkit/app/results/jira/2023-11-01_12-51-45"
+    fullPath: "/home/ubuntu/github/dc-app-performance-toolkit/app/results/jira/2023-11-06_13-30-00"
 
 # Chart generation config
 index_col: "Action"
